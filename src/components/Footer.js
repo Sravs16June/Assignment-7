@@ -86,42 +86,38 @@ const Footer = () => {
             <h5>Connect With Us</h5>
             <div className="d-flex gap-3 mb-2">
               <a
-                href="https://www.instagram.com/ajith_gurram/"
+                href="https://www.facebook.com/share/12LSpUq9wMy/" target="_blank" rel="noreferrer"
                 className="text-white"
               >
                 <i className="bi bi-facebook"></i>
               </a>
               <a
-                href="https://www.instagram.com/ajith_gurram/"
+                href="https://www.instagram.com/actorprabhas?utm_source=ig_web_button_share_sheet&igsh=MWphanNhOWFkc3g3dA==" target="_blank" rel="noreferrer"
                 className="text-white"
               >
                 <i className="bi bi-instagram"></i>
               </a>
               <a
-                href="https://www.instagram.com/ajith_gurram/"
+                href="https://x.com/ShubmanGill" target="_blank" rel="noreferrer"
                 className="text-white"
               >
                 <i className="bi bi-twitter-x"></i>
               </a>
               <a
-                href="https://www.instagram.com/ajith_gurram/"
+                href="https://youtube.com/@eeveeandyoshi?si=4Sm_mLgLOTx2MDp8" target="_blank" rel="noreferrer"
                 className="text-white"
               >
                 <i className="bi bi-youtube"></i>
               </a>
             </div>
             <p>
-              Email:{" "}
-              <a href="mailto:support@bookyshow.com">support@bookyshow.com</a>
+              <a href="mailto:support@bookmyshow.com?subject=Support%20Request&body=Hi%2C%20I%20need%20help%20with..." target="_blank" rel="noreferrer"> Email Us </a>
             </p>
+
             <p>
-              <a
-                href="https://wa.me/7093012101?text=Hi%20I%20need%20support%20with%20my%20booking"
-                target="_blank"
-              >
-                Message Us on WhatsApp
-              </a>
+              <a href="https://wa.me/919876543210" target="_blank" rel="noreferrer" className="btn btn-success"> Message Us on WhatsApp </a>
             </p>
+
           </div>
         </div>
 
